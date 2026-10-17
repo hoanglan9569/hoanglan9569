@@ -3,6 +3,9 @@
 QA engineer based in Vietnam (GMT+7). I automate tests for web, API and mobile apps, and I build AI agents that do
 QA work.
 
+Founder of **[Releaseworthy](https://releaseworthy.app)**: managed QA for web, API and mobile, run by Claude agents
+and a human QA engineer.
+
 **Web and API:** Playwright, TypeScript, Bun, zod contracts, GitHub Actions<br>
 **Mobile:** Appium, Maestro, Mobilewright<br>
 **Performance:** k6<br>
