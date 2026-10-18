@@ -13,9 +13,9 @@ and a human QA engineer.
 
 ## Projects
 
-- **[agentic-qa](https://github.com/hoanglan9569/agentic-qa)**: Claude agents that plan tests from risk, refine
+- **[agentic-qa](https://github.com/Releaseworthy/agentic-qa)**: Claude agents that plan tests from risk, refine
   acceptance criteria, write and run Playwright tests, and make the Go/No-Go call on a demo shop.
-  [Live report](https://hoanglan9569.github.io/agentic-qa/)
+  [Live report](https://releaseworthy.github.io/agentic-qa/)
 - **[qa-automation-challenge](https://github.com/hoanglan9569/qa-automation-challenge)**: Playwright UI and API tests
   plus k6 performance tests for DemoBlaze.
 
