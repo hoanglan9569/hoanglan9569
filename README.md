@@ -21,4 +21,4 @@ and a human QA engineer.
 
 ## Contact
 
-qa@releaseworthy.app · hoanglan9569@gmail.com
+lanhoang@releaseworthy.app
